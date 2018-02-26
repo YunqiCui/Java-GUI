@@ -1,0 +1,20 @@
+AWT 跨平台GUI 开发工具
+SWING 解决了AWT 的 lcd 问题。 是AWT 一种扩展和补充。
+SWT IBM 认为SWING 内存消耗很大。所以推出了SWT.
+JFace IBM 为了方便开发SWT 在这个基础上又创建了JFace.
+
+
+SWING 组件分类
+1. 文本类/Text
+2. 菜单/Menu
+3. 小控件/Widgets
+4. 顶层窗口 /Top level windows
+5. 自窗口/Sub-level windows
+
+JFrame(窗体,GridLayout), JButton(GridLayout)，JPanel(面板,FlowLayout)
+
+Layout Manager
+1.BorderLayout
+2.FlowLayout
+3.GridLayout
+
